@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+	<item>
+		<name>ftc_body_font_enable_google_font</name>
+		<value>0</value>
+	</item>
+	<item>
+		<name>ftc_body_font_family</name>
+		<value>Droid Serif</value>
+	</item>
+	
+	<item>
+		<name>ftc_secondary_body_font_google</name>
+		<value>Poppins</value>
+	</item>
+	<item>
+		<name>ftc_primary_color</name>
+		<value>#66ddd9</value>
+	</item>
+	<item>
+		<name>ftc_secondary_color</name>
+		<value>#444444</value>
+	</item>
+        <item>
+		<name>ftc_body_background_color</name>
+		<value>#ffffff</value>
+	</item>
+</items>
